@@ -1,68 +1,19 @@
 ---
-title: "Post: Notice"
+title: "Technical team"
 categories:
   - Blog
-tags:
-  - Post Formats
-  - notice
+date: 2023-04-12
 ---
 
-A notice displays information that explains nearby content. Often used to call attention to a particular detail.
+![My helpful screenshot](/assets/images/broadway23.jpg)
 
-When using Kramdown `{: .notice}` can be added after a sentence to assign the `.notice` to the `<p></p>` element. 
+This team is in charge of all the **technical aspect** of a stage performance.
 
-**Changes in Service:** We just updated our [privacy policy](#) here to better service our customers. We recommend reviewing the changes.
-{: .notice}
+If you have great knowledge about how **mics work** or what equipment is used for stage performances, or know about **lights** on stage and want to be changing the lighting during the actual performance, then this is for you. 
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
+Light and sound is a **major** component of a **successful performance**, and therefore, having a team in charge of this space will allow us to do **more and better**. 
 
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
+>If you are interested or not yet sure but still want to help and support us, don't hesitate to contact us. You can use the club's mail or contact directly the producer, Laura. 
 
-**Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--warning}
+>Lets bring the magic of musicals on the stages of Maastricht together.
 
-**Danger Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing](#) elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--danger}
-
-**Success Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at [nibh elementum](#) imperdiet.
-{: .notice--success}
-
-Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with `markdownify` is a good way to go.
-
-```html
-{% raw %}{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}{% endraw %}
-
-<div class="notice">{% raw %}{{ notice-2 | markdownify }}{% endraw %}</div>
-```
-
-{% capture notice-2 %}
-#### New Site Features
-
-* You can now have cover images on blog pages
-* Drafts will now auto-save while writing
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-2 | markdownify }}
-</div>
-
-Or you could skip the capture and stick with straight HTML.
-
-```html
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>
-```
-
-<div class="notice">
-  <h4>Message</h4>
-  <p>A basic message.</p>
-</div>

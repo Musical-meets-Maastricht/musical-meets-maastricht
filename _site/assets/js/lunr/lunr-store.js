@@ -1,43 +1,37 @@
 var store = [{
-        "title": "Post: Modified Date",
-        "excerpt":"This post has been updated and should show a modified date if used in a layout. All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a...","categories": ["Blog"],
-        "tags": ["Post Formats","readability","standard"],
-        "url": "/blog/post-modified/",
+        "title": "Music team",
+        "excerpt":"This team is in charge of the vocal aspect and the orchestra. Music is the main part of a musical, therefore, we need a specific team for it. If you like singing, have a great voice and want to perform on stage this is for you. As a music assistant,...","categories": ["jekyll","update"],
+        "tags": [],
+        "url": "/jekyll/update/welcome-to-jekyll-(copie)/",
         "teaser": null
       },{
-        "title": "Post: Standard",
-        "excerpt":"All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she...","categories": ["Blog"],
-        "tags": ["Post Formats","readability","standard"],
-        "url": "/blog/post-standard/",
+        "title": "Producing team",
+        "excerpt":"This team is in charge of all the production outside of all the other teams. We need help for marketing. If you are good with pictures or have any kind of material that could be used, if you are good with designing logos or posters, if you are good with...","categories": ["Blog"],
+        "tags": [],
+        "url": "/blog/post-chat-(copie)/",
         "teaser": null
       },{
-        "title": "Post: Chat",
-        "excerpt":"Abbott: Strange as it may seem, they give ball players nowadays very peculiar names. Costello: Funny names? Abbott: Nicknames, nicknames. Now, on the St. Louis team we have Who’s on first, What’s on second, I Don’t Know is on third– Costello: That’s what I want to find out. I want...","categories": ["Blog"],
-        "tags": ["chat","Post Formats"],
+        "title": "Artistic team",
+        "excerpt":"This team is in charge of creating, designing and organizing the costumes and the decors for the stage. If you are interested in designing, drawing and love manual work, this is for you. We need people that have a creative mind and willing to use their hands to build new...","categories": ["Blog"],
+        "tags": [],
         "url": "/blog/post-chat/",
         "teaser": null
       },{
-        "title": "Post: Notice",
-        "excerpt":"A notice displays information that explains nearby content. Often used to call attention to a particular detail. When using Kramdown {: .notice} can be added after a sentence to assign the .notice to the &lt;p&gt;&lt;/p&gt; element. Changes in Service: We just updated our privacy policy here to better service our...","categories": ["Blog"],
-        "tags": ["Post Formats","notice"],
+        "title": "Technical team",
+        "excerpt":"This team is in charge of all the technical aspect of a stage performance. If you have great knowledge about how mics work or what equipment is used for stage performances, or know about lights on stage and want to be changing the lighting during the actual performance, then this...","categories": ["Blog"],
+        "tags": [],
         "url": "/blog/post-notice/",
         "teaser": null
       },{
-        "title": "Post: Quote",
-        "excerpt":"   Only one thing is impossible for God: To find any sense in any copyright law on the planet.       Mark Twain   ","categories": ["Blog"],
-        "tags": ["Post Formats","quote"],
-        "url": "/blog/post-quote/",
+        "title": "Choreographing team",
+        "excerpt":"This team is in charge of creating the choreographies, to learn them and teach them to the future cast. If you love dancing and choreographing and would like to make your own creations for the story, then this might be your chance. Any type of background in dancing is welcome....","categories": [],
+        "tags": [],
+        "url": "/welcome-to-jekyll/",
         "teaser": null
       },{
-        "title": "Post: Link",
-        "excerpt":"This theme supports link posts, made famous by John Gruber. To use, just add link: http://url-you-want-linked to the post’s YAML front matter and you’re done.      And this is how a quote looks.    Some link can also be shown.  ","categories": ["Blog"],
-        "tags": ["link","Post Formats"],
-        "url": "/blog/post-link/",
-        "teaser": null
-      },{
-        "title": "Welcome to Jekyll!",
-        "excerpt":"You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when...","categories": ["blog"],
-        "tags": ["Jekyll","update"],
+        "title": "Introduction !",
+        "excerpt":"De Nederlandse versie staat in ‘About’ Musical meets Maastricht is a new association project that has not yet opened. The project of the club is to produce every year a musical with the students and perform it on the stages of Maastricht. It is an amateur club which means that...","categories": ["Blog"],
+        "tags": [],
         "url": "/blog/welcome-to-jekyll/",
         "teaser": null
       }]

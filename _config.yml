@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Musical meets Maastricht
+logo: "/assets/images/logo4.png"
 email: musicalmeetsmaastricht@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
-  kkkkkkk
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -72,36 +73,72 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Musical meets Maastricht"
+  avatar : "/assets/images/logo4.png"
+  bio    : "Lets bring the magic of musicals on the stages of Maastricht together."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/AUBGcurious/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "musicalmeetsmaastricht@googlegroups.com"
+    - label: "Producer's email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "laura@schellerup.com" 
+    - label: "Producer's Whatsapp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://wa.me/qr/WGHR577IP4M7I1"
+    - label: "Producer's Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/laura_schellerup"
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/AUBGcurious/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "musicalmeetsmaastricht@googlegroups.com"
+    - label: "Producer's email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "laura@schellerup.com" 
+    - label: "Producer's Whatsapp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://wa.me/qr/WGHR577IP4M7I1"
+    - label: "Producer's Telegram"
+      icon: "fab fa-fw fa-telegram"
+      url: "https://t.me/laura_schellerup"
 
 defaults:
+  #_portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
   # _posts
   - scope:
       path: ""

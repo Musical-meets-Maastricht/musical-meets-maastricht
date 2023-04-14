@@ -1,29 +1,15 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+title: "Choreographing team"
+date: 2023-04-12
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![My helpful screenshot](/assets/images/broadway22.jpeg)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This team is in charge of **creating the choreographies**, to learn them and teach them to the future cast.
 
-Jekyll also offers powerful support for code snippets:
+If you **love dancing** and choreographing and would like to make your **own creations** for the story, then this might be your chance. **Any type** of background in dancing is welcome. Of course, jazz and tap dancing are the main genre for musicals, however, it is not that much of a problem. It is actually better if we have dancers from other genres, it opens up the team's creativity. It can be **ballet**, **jazz**, **contemporary**, **hip-hop**, **tap dancing**, and many others. 
 
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
+>If you are interested or not yet sure but still want to help and support us, don't hesitate to contact us. You can use the club's mail or contact directly the producer, Laura. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+>Lets bring the magic of musicals on the stages of Maastricht together.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
