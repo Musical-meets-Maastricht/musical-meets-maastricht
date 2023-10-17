@@ -2,7 +2,7 @@
 title: "Producing team"
 categories:
   - Blog
-date: 2023-04-12
+date: 2023-10-16
 ---
 
 ![My helpful screenshot](/assets/images/broadway25.png)
@@ -16,7 +16,7 @@ We need people that are good at **speaking** to people and to sponsors. We are g
 We are also going to **organize events**, **parties**, **shows** for people to discover our club. If you like **organizing small events** for other students, you are also more than welcome in our team.
 
 
->If you are interested or not yet sure but still want to help and support us, don't hesitate to contact us. You can use the club's mail or contact directly the producer, Laura. 
+>If you are interested or not yet sure but still want to help and support us, don't hesitate to contact us. 
 
 >Lets bring the magic of musicals on the stages of Maastricht together.
 

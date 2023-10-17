@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Musical meets Maastricht
-logo: "/assets/images/logo4.png"
-email: musicalmeetsmaastricht@googlegroups.com
+logo: "/assets/images/Logo.jpg"
+email: musicalmeetsmaastricht@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 # Welcome to Jekyll!
@@ -74,27 +74,18 @@ plugins:
 
 author:
   name   : "Musical meets Maastricht"
-  avatar : "/assets/images/logo4.png"
+  avatar : "/assets/images/Logo3.jpg"
   bio    : "Lets bring the magic of musicals on the stages of Maastricht together."
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/AUBGcurious/"
+      url: "https://www.facebook.com/profile.php?id=100091958392710"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/musicalmeetsmaastricht/" 
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "musicalmeetsmaastricht@googlegroups.com"
-    - label: "Producer's email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "laura@schellerup.com" 
-    - label: "Producer's Whatsapp"
-      icon: "fab fa-fw fa-whatsapp"
-      url: "https://wa.me/qr/WGHR577IP4M7I1"
-    - label: "Producer's Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/laura_schellerup"
+      icon: "fas fa-fw fa-envelope-square" 
+      url: "mailto:musicalmeetsmaastricht@gmail.com"
 
 collections:
   portfolio:
@@ -113,22 +104,13 @@ footer:
   links:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
-      url: "https://www.facebook.com/AUBGcurious/"
+      url: "https://www.facebook.com/profile.php?id=100091958392710"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/musicalmeetsmaastricht/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "musicalmeetsmaastricht@googlegroups.com"
-    - label: "Producer's email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "laura@schellerup.com" 
-    - label: "Producer's Whatsapp"
-      icon: "fab fa-fw fa-whatsapp"
-      url: "https://wa.me/qr/WGHR577IP4M7I1"
-    - label: "Producer's Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/laura_schellerup"
+      url: "mailto:musicalmeetsmaastricht@gmail.com"
 
 defaults:
   #_portfolio
